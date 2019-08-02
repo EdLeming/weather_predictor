@@ -6,12 +6,9 @@ https://www.ecad.eu//dailydata/predefinedseries.php. In this repo I've included 
  station 1825 - Aberdeen Airport.
 
 <h2> Dependencies </h2> 
+
 1. pandas
-
 2. numpy
-
 3. matplotlib
-
 4. statsmodels
-
 5. pyramid-arima
